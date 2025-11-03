@@ -59,7 +59,7 @@ const {
     prepareWAMessageMedia,
     generateWAMessageFromContent,
     S_WHATSAPP_NET
-} = require('baileys');
+} = require('@dark-yasiya/baileys');
 
 const config = {
     AUTO_VIEW_STATUS: 'true',
